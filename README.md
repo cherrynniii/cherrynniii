@@ -32,6 +32,13 @@
 	
   ![cherrynniii's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherrynniii&show_icons=true&theme=transparent)
 </div>
+<br/>
+
+<h3 align="center">✨ Baekjoon ✨</h3>
+<div align=center>
+	
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chaelin207)](https://solved.ac/chaelin/)
+<br/><br/>
 
 <!--
 **cherrynniii/cherrynniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
