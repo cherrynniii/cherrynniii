@@ -1,9 +1,17 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Waving&text=cherrynniii's%20Github&fontColor=ffffff&fontSize=45&animation=twinkling&stroke=6c5203&color=0:ebc4c4,100:b6dd5c)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=🍒chaelin's%20Github🍒&fontColor=ff2093&fontSize=45&animation=twinkling&color=0:ebc4c4,100:b6dd5c)
 </div>
 
-<h3 align="center">🍒 Learning 🍒</h3>
+<h3 align="center">✨ SNS ✨</h3>
+<p align="center">
+  <a href="https://swlin23.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"></a>&nbsp
+  <a href="https://www.instagram.com/cherrynniii/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>&nbsp
+  <a href="mailto:chaelin20760@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+<br/>
+
+<h3 align="center">✨ Learning ✨</h3>
 <div align=center>
 	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -17,6 +25,7 @@
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
 </div>
+
 <!--
 **cherrynniii/cherrynniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
