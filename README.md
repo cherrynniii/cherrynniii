@@ -25,6 +25,13 @@
   <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
 </div>
+<br/><br/>
+
+<h3 align="center">✨ Github Status ✨</h3>
+<div align=center>
+	
+  ![cherrynniii's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherrynniii&show_icons=true&theme=transparent)
+</div>
 
 <!--
 **cherrynniii/cherrynniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
