@@ -1,6 +1,6 @@
 <div align="center">
   
-  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=cherrynniii's%20Github&fontColor=726231&fontSize=45&animation=twinkling&stroke=FFFFFF&color=ebc4c4)
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=cherrynniii's%20Github&fontColor=ffffff&fontSize=45&animation=twinkling&stroke=a58111&color=0:ebc4c4,100:b6dd5c)
 </div>
 
 <h3 align="center">🍒 Learning 🍒</h3>
