@@ -1,4 +1,22 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&text=cherrynniii's%20Github&fontColor=726231&fontSize=45&animation=twinkling&stroke=FFFFFF&color=ebc4c4)
+<div align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Cylinder&text=cherrynniii's%20Github&fontColor=726231&fontSize=45&animation=twinkling&stroke=FFFFFF&color=ebc4c4)
+</div>
+
+<h3 align="center">🍒 Learning 🍒</h3>
+<div align=center>
+	<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+    <br>
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray">
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+    <br>
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
+</div>
 <!--
 **cherrynniii/cherrynniii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
