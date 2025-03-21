@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge&logo=Amazon%20S3&logoColor=white">
     <br>
   <img src="https://img.shields.io/badge/Spring Boot-%6DB33F.svg?style=for-the-badge&logo=%20S3&logo=springboot&Color=white">
+  <img src="https://img.shields.io/badge/PyTorch-%EE4C2C.svg?style=for-the-badge&logo=%20S3&logo=pytorch&Color=white">
 </div>
 <br/><br/>
 
